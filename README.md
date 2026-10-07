@@ -46,19 +46,19 @@ For features that might appear in research but have not been specifically mentio
 
 #### 1.2.1 均线家族 Moving Average Family
 
-##### SMA: 简单移动平均 / 
+**SMA: 简单移动平均 / Simple Moving Average**: `MA5`, `Weekly_MA5`
 
-##### EMA: 指数移动平均 / Exponnetial Moving Average
+**EMA: 指数移动平均 / Exponnetial Moving Average**: `SMA_5`
 
-##### 布林带
+**布林带 / Boll**: 
 
-##### 偏离度因子
+**偏离度因子**
 
-##### 长短线交叉因子
+**长短线交叉因子**
 
 #### 1.2.2 量价家族
 
-##### VWAP: 成交量加权平均价 / Volume Weighted Average Price
+**VWAP: 成交量加权平均价 / Volume Weighted Average Price**: `VWAP`
 
 #### 1.2.3 波动率家族
 
